@@ -9,6 +9,6 @@ int main()
 
     printf("I am %d years old.\n");
     printf("I am %d inches tall.\n", height);
-
+    printf("/* Warning: This program is wrong on purpose. */");
     return 0;
 }

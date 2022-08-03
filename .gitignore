@@ -8,3 +8,6 @@ Videos
 *.db
 tags
 
+/Practice/cmake-build-debug/
+/Practice/.idea/
+/.idea/
